@@ -51,10 +51,4 @@ The following regression models are applied and evaluated:
 
 Models are evaluated using:
 - **Mean Squared Error (MSE)**: Measures the average squared difference between predicted and actual values.
-- **R² Score**: Indicates the proportion of the variance in the dependent variable that is predictable from the independent variables.
-
-## Usage
-
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/your-username/Regression-Analysis.git
+- **R² Score**: Indicates the proportion of the variance in the dependent variable that is predictable from the independent values
